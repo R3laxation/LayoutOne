@@ -1,0 +1,15 @@
+body{
+    color: #212121;
+}
+
+.header{
+    margin-top: 20px;
+}
+
+.logo, .menu{
+    display: inline-block;
+}
+
+.logo-important{
+    color: #2D76F9;
+}
