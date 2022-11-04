@@ -4,11 +4,17 @@ body {
     font-size: 18px;
 }
 
-
+.secction{
+    margin-bottom: 150px;
+}
 
 .header {
     padding-top: 20px;
     margin-bottom: 50px;
+}
+
+.logo{
+    font-weight: 600;
 }
 
 .logo, .menu {
