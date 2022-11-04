@@ -4,6 +4,8 @@ body {
     font-size: 18px;
 }
 
+
+
 .header {
     padding-top: 20px;
     margin-bottom: 50px;
@@ -37,7 +39,7 @@ body {
     border-radius: 50px;
     background: none;
     border: 1px solid #2D76F9;
-    padding: 5px 25px;
+    padding: 10px 40px;
     font-size: 18px;
     font-weight: 400;
 }
@@ -75,4 +77,10 @@ body {
     line-height: 36px;
     color: #747474;
     margin-bottom: 50px;
+}
+
+.btn-secondary{
+    background: #2D76F9;
+    color: white;
+    padding: 22px 60px;
 }
