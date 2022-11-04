@@ -1,17 +1,19 @@
-body{
+body {
     color: #212121;
     font-family: 'Poppins', sans-serif;
+    font-size: 18px;
 }
 
-.header{
-    margin-top: 20px;
+.header {
+    padding-top: 20px;
+    margin-bottom: 50px;
 }
 
-.logo, .menu{
+.logo, .menu {
     display: inline-block;
 }
 
-.menu li{
+.menu li {
     display: inline-block;
     padding: 0 25px;
 }
@@ -26,15 +28,31 @@ body{
     font-weight: 700;
 }
 
-.logo-important{
+.logo-important {
     color: #2D76F9;
 }
 
-.btn{
+.btn {
     color: #2D76F9;
     border-radius: 50px;
     background: none;
     border: 1px solid #2D76F9;
     padding: 5px 25px;
     font-size: 18px;
+    font-weight: 400;
+}
+
+.main-section {
+    position: relative;
+    min-height: 850px;
+}
+
+.main-section .background {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 50%;
+    background: url('../images/hero-image.png') 100% 0 no-repeat;
+    background-size: contain;
 }
