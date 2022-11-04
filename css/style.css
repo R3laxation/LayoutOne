@@ -55,4 +55,5 @@ body {
     width: 50%;
     background: url('../images/hero-image.png') 100% 0 no-repeat;
     background-size: contain;
+    z-index: -1000;
 }
