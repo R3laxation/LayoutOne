@@ -61,9 +61,10 @@ body {
     right: 0;
     bottom: 0;
     width: 50%;
-    background: url('../images/hero-image.png') 100% 0 no-repeat;
-    background-size: contain;
+    background: url('../images/background.png') 100% 0 no-repeat;
+    background-size: cover;
     z-index: -1000;
+    border-bottom-left-radius: 80px;
 }
 
 .main-section-content{
