@@ -105,3 +105,20 @@ body {
     color: white;
     padding: 22px 60px;
 }
+
+.section-advantages .icon{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background: url("../images/advantage-1.svg") 50% 50% no-repeat;
+    background-size: contain;
+    margin-bottom: 50px;
+}
+
+.section-advantages .icon-2{
+    background: url("../images/advantage-2.svg") 50% 50% no-repeat;
+}
+
+.section-advantages .icon-3{
+    background: url("../images/advantage-3.svg") 50% 50% no-repeat;
+}
