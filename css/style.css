@@ -4,8 +4,9 @@ body {
     font-size: 18px;
 }
 
-.secction{
+.section{
     margin-bottom: 150px;
+    position: relative;
 }
 
 .header {
@@ -65,6 +66,19 @@ body {
     background-size: cover;
     z-index: -1000;
     border-bottom-left-radius: 80px;
+}
+
+.main-section .background-phone{
+    position: absolute;
+    left: 80px;
+    top: 50%;
+    margin-top: -305px;
+    width: 560px;
+    height: 610px;
+    background: url("../images/phone.png") 50% 50% no-repeat;
+    background-size: contain;
+    z-index: 100;
+
 }
 
 .main-section-content{
