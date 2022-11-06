@@ -186,7 +186,9 @@ body {
     position: relative;
     background: #2D76F9;
     border-radius: 50px;
-
+    overflow: hidden;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 
 .section-download .background {
@@ -197,4 +199,10 @@ body {
     bottom: 0;
     background: url("../images/bg-download.png") 50% 50% no-repeat;
     background-size: cover;
+}
+
+.section-download .section-content{
+    position: relative;
+    width: 70%;
+    margin: 0 auto;
 }
