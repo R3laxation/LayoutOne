@@ -98,6 +98,10 @@ body {
     margin-bottom: 50px;
 }
 
+.h2.h2-secondary{
+    color: #FFFF;
+}
+
 .h3{
     font-size: 24px;
     line-height: 36px;
@@ -199,10 +203,13 @@ body {
     bottom: 0;
     background: url("../images/bg-download.png") 50% 50% no-repeat;
     background-size: cover;
+    opacity: .8;
 }
 
 .section-download .section-content{
     position: relative;
     width: 70%;
     margin: 0 auto;
+    text-align: center;
 }
+
