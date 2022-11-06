@@ -51,6 +51,19 @@ body {
     font-weight: 400;
 }
 
+.btn-third{
+    border-color: white;
+    background: white;
+    padding: 22px 60px;
+}
+
+.btn-fourth{
+    background: none;
+    border-color: white;
+    color: white;
+    padding: 22px 60px;
+}
+
 .main-section {
     min-height: 850px;
 }
@@ -213,3 +226,10 @@ body {
     text-align: center;
 }
 
+.section-download .actions-container{
+    padding-top: 50px;
+}
+
+.section-download .actions-container .btn{
+    margin: 0 30px;
+}
