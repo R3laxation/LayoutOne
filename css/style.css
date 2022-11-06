@@ -216,7 +216,6 @@ body {
     bottom: 0;
     background: url("../images/bg-download.png") 50% 50% no-repeat;
     background-size: cover;
-    opacity: .8;
 }
 
 .section-download .section-content{
