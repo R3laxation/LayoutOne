@@ -181,3 +181,9 @@ body {
 .section-description-2 .bg-description{
     background-image: url("../images/bg-description-2.png");
 }
+
+.section-download .container{
+    background: #2D76F9;
+    border-radius: 50px;
+}
+
