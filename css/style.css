@@ -183,7 +183,18 @@ body {
 }
 
 .section-download .container{
+    position: relative;
     background: #2D76F9;
     border-radius: 50px;
+
 }
 
+.section-download .background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: url("../images/bg-download.png") 50% 50% no-repeat;
+    background-size: cover;
+}
