@@ -286,10 +286,15 @@ body {
     margin-right: 30px;
 }
 
-.testimonials .user-info .username,
-.testimonials .user-info .status {
+.testimonials .user-info .username{
     font-size: 18px;
     line-height: 27px;
     font-weight: 600;
     margin-bottom: 10px;
+}
+
+.testimonials .user-info .status {
+    font-size: 14px;
+    line-height: 21px;
+    margin-bottom: 0;
 }
