@@ -273,6 +273,8 @@ body {
 
 .testimonials .user{
     display: flex;
+    align-items: center;
+    margin-bottom: 50px;
 }
 
 .testimonials .user .avatar {
@@ -297,4 +299,5 @@ body {
     font-size: 14px;
     line-height: 21px;
     margin-bottom: 0;
+    color: #747474;
 }
