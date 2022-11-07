@@ -262,11 +262,20 @@ body {
     padding-bottom: 50px;
 }
 
-.col-testimonials .user{
+.testimonials {
+    padding: 0;
+    margin: 0;
+}
+
+.testimonials li{
+    list-style: none;
+}
+
+.testimonials .user{
     display: flex;
 }
 
-.col-testimonials .user .avatar {
+.testimonials .user .avatar {
     border-radius: 50%;
     width: 75px;
     min-width: 75px;
@@ -274,4 +283,13 @@ body {
     background-size: cover;
     background-position: 50% 50%;
     background-repeat: no-repeat;
+    margin-right: 30px;
+}
+
+.testimonials .user-info .username,
+.testimonials .user-info .status {
+    font-size: 18px;
+    line-height: 27px;
+    font-weight: 600;
+    margin-bottom: 10px;
 }
