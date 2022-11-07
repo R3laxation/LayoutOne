@@ -305,3 +305,9 @@ body {
 .testimonials .text{
     color: #212121;
 }
+
+.bx-wrapper {
+    box-shadow: none;
+    border: none;
+    background: none;
+}
