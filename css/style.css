@@ -232,3 +232,17 @@ body {
 .section-download .actions-container .btn{
     margin: 0 30px;
 }
+
+.section-testimonials .background{
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 50%;
+    background: #EEF4FF;
+    background-size: cover;
+    z-index: -1000;
+    border-bottom-right-radius: 80px;
+    border-top-right-radius: 80px;
+}
