@@ -256,3 +256,22 @@ body {
     background: url("../images/bg-testimonials.png") 100% 50% no-repeat;
     background-size: contain;
 }
+
+.col-testimonials{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.col-testimonials .user{
+    display: flex;
+}
+
+.col-testimonials .user .avatar {
+    border-radius: 50%;
+    width: 75px;
+    min-width: 75px;
+    height: 75px;
+    background-size: cover;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+}
