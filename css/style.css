@@ -328,6 +328,6 @@ body {
 
 .bx-wrapper .bx-next{
     right: auto;
-    left: 50px;
+    left: 60px;
     background: url("../images/la_arrow-right.svg") no-repeat 50% 50%;
 }
