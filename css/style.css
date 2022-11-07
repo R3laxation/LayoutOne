@@ -246,3 +246,13 @@ body {
     border-bottom-right-radius: 80px;
     border-top-right-radius: 80px;
 }
+
+.bg-testimonials{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 50px;
+    bottom: 0;
+    background: url("../images/bg-testimonials.png") 100% 50% no-repeat;
+    background-size: contain;
+}
