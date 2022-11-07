@@ -320,7 +320,9 @@ body {
     background: url("../images/la_arrow-left.svg") no-repeat 50% 50%;
 }
 .bx-wrapper .bx-prev:hover,
-.bx-wrapper .bx-next:hover {
+.bx-wrapper .bx-next:hover,
+.bx-wrapper .bx-prev:focus,
+.bx-wrapper .bx-next:focus {
     background-position: 50% 50%;
 }
 
