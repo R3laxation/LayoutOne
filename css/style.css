@@ -366,6 +366,18 @@ body {
     background-repeat: no-repeat;
 }
 
+.soc-link-item.facebook{
+    background-image: url("../images/social-icon-1.svg");
+}
+
+.soc-link-item.twitter{
+    background-image: url("../images/social-icon-2.svg");
+}
+
+.soc-link-item.linkedin{
+    background-image: url("../images/social-icon-3.svg");
+}
+
 .bx-wrapper {
     box-shadow: none;
     border: none;
