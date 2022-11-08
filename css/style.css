@@ -322,6 +322,38 @@ body {
     font-size: 36px;
 }
 
+.section-footer .h3{
+    margin-top: 36px;
+    margin-bottom: 62px;
+}
+
+.section-footer .footer-menu{
+    margin: 0;
+    padding: 0;
+}
+
+.section-footer .footer-menu li{
+    list-style: none;
+    text-decoration: none;
+    padding-left: 10px;
+}
+
+.section-footer .footer-menu .menu-item{
+    position: relative;
+}
+
+.section-footer .footer-menu .menu-item:before{
+    position: absolute;
+    content: '';
+    top: 50%;
+    left: 0;
+    margin-top: -2px;
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background: #2D76F9;
+}
+
 .bx-wrapper {
     box-shadow: none;
     border: none;
