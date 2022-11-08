@@ -361,7 +361,9 @@ body {
     width: 36px;
     height: 36px;
     margin-right: 40px;
-    background: red;
+    background-size: contain;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
 }
 
 .bx-wrapper {
