@@ -312,6 +312,12 @@ body {
     margin-right: 20px;
 }
 
+.section-footer .logo{
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
 .section-footer .logo-text{
     font-size: 36px;
 }
