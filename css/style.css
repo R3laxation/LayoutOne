@@ -306,6 +306,12 @@ body {
     color: #212121;
 }
 
+.section-footer .logo-image{
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+}
+
 .bx-wrapper {
     box-shadow: none;
     border: none;
