@@ -324,7 +324,7 @@ body {
 
 .section-footer .h3{
     margin-top: 36px;
-    margin-bottom: 62px;
+    margin-bottom: 58px;
 }
 
 .section-footer .footer-menu{
@@ -340,6 +340,8 @@ body {
 
 .section-footer .footer-menu .menu-item{
     position: relative;
+    color: #747474;
+    line-height: 36px;
 }
 
 .section-footer .footer-menu .menu-item:before{
@@ -352,6 +354,14 @@ body {
     height: 4px;
     border-radius: 50%;
     background: #2D76F9;
+}
+
+.soc-links .soc-link-item{
+    display: inline-block;
+    width: 36px;
+    height: 36px;
+    margin-right: 40px;
+    background: red;
 }
 
 .bx-wrapper {
