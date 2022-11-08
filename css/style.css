@@ -312,6 +312,10 @@ body {
     margin-right: 20px;
 }
 
+.section-footer .logo-text{
+    font-size: 36px;
+}
+
 .bx-wrapper {
     box-shadow: none;
     border: none;
