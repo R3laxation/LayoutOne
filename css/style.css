@@ -416,6 +416,16 @@ body {
         display: none;
     }
 
+    .main-section .background-phone{
+        margin-top: -175px;
+        width: 340px;
+        height: 360px;
+    }
+
+    .main-section{
+        min-height: 650px;
+    }
+
     .h1{
         font-size: 48px;
         line-height: 65px;
@@ -430,4 +440,6 @@ body {
     .btn-secondary{
         padding: 18px 40px;
     }
+
+
 }
