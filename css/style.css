@@ -441,5 +441,16 @@ body {
         padding: 18px 40px;
     }
 
+    .section{
+        margin-bottom: 100px;
+    }
+
+    .section-advantages{
+        margin-top: 100px;
+    }
+
+    .section-advantages .icon{
+        margin-bottom: 30px;
+    }
 
 }
