@@ -406,3 +406,9 @@ body {
     left: 60px;
     background: url("../images/la_arrow-right.svg") no-repeat 50% 50%;
 }
+
+@media (max-width: 1199px){
+    .header .menu{
+        display: none;
+    }
+}
