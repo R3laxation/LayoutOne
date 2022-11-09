@@ -411,7 +411,14 @@ body {
     body{
         font-size: 16px;
     }
+
     .header .menu{
         display: none;
+    }
+
+    .h1{
+        font-size: 48px;
+        line-height: 65px;
+        margin-bottom: 40px;
     }
 }
