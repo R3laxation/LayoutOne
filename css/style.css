@@ -421,4 +421,13 @@ body {
         line-height: 65px;
         margin-bottom: 40px;
     }
+
+    .btn{
+        padding: 8px 30px;
+        font-size: 16px;
+    }
+
+    .btn-secondary{
+        padding: 18px 40px;
+    }
 }
