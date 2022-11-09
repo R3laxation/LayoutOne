@@ -305,6 +305,9 @@ body {
 .testimonials .text{
     color: #212121;
 }
+.section-footer{
+    margin-bottom: 50px;
+}
 
 .section-footer .logo-image{
     width: 100px;
