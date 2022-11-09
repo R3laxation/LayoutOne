@@ -435,6 +435,7 @@ body {
     .h2{
         font-size: 28px;
         line-height: 50px;
+        margin-bottom: 40px;
     }
 
     .h3{
@@ -463,4 +464,12 @@ body {
         margin-bottom: 30px;
     }
 
+    .section-download .container{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .section-download .actions-container{
+        padding-top: 20px;
+    }
 }
