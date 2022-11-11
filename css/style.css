@@ -61,6 +61,7 @@ body {
 .menu.menu-mobile li{
     display: block;
     padding: 20px 0;
+    font-size: 20px;
 }
 
 .menu-opened .menu-mobile{
