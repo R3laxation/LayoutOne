@@ -54,6 +54,7 @@ body {
 }
 .menu.menu-mobile ul{
     text-align: left;
+    padding-top: 30px;
 }
 
 .menu.menu-mobile li{
