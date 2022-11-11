@@ -58,6 +58,7 @@ body {
 
 .menu.menu-mobile li{
     display: block;
+    padding: 10px 0;
 }
 
 .menu-opened .menu-mobile{
