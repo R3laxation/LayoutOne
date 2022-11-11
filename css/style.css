@@ -53,7 +53,7 @@ body {
     transition: left 0.3s ease-in-out;
 }
 .menu.menu-mobile ul{
-
+    text-align: left;
 }
 
 .menu.menu-mobile li{
