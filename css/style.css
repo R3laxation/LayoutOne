@@ -53,7 +53,7 @@ body {
 }
 
 .menu-opened .menu-mobile{
-
+    left:0;
 }
 
 .logo{
