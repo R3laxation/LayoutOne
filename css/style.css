@@ -40,6 +40,10 @@ body {
     background-size: contain;
 }
 
+.menu-opened{
+    overflow: hidden;
+}
+
 .logo{
     font-weight: 600;
 }
