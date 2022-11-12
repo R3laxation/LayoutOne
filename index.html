@@ -223,7 +223,11 @@
         });
 
         $('.menu-burger').click(() => {
-            $('body').addClass('menu-opened');
+           if( $('body').hasClass('menu-opened')){
+                $('body').removeClass('menu-opened');
+            } else {
+                $('body').addClass('menu-opened');
+            }
         })
     });
 </script>
