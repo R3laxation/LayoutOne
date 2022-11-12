@@ -53,6 +53,10 @@ body {
     transition: left 0.3s ease-in-out;
 }
 
+.menu-mobile li{
+    display: block;
+}
+
 .menu-opened .menu-mobile{
     left:0;
 }
