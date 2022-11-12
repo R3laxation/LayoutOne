@@ -568,5 +568,9 @@ body {
         padding-bottom: 0;
     }
 
+    .section-footer .logo-image{
+        width: 65px;
+        height: 65px;
+    }
 }
 
