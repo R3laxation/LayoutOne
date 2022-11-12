@@ -524,7 +524,7 @@ body {
 }
 
 @media  (max-width: 991px) {
-    .header .menu{
+    .header .menu-desktop{
         display: none;
     }
 }
