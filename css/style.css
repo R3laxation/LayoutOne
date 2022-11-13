@@ -559,5 +559,9 @@ body {
         padding: 22px 60px;
     }
 
+    .section-testimonials .background{
+        display: none;
+    }
+
 }
 
