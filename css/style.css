@@ -27,6 +27,14 @@ body {
 
 .menu-burger:after{
     position: absolute;
+    width:30px;
+    height: 30px;
+    top: 50%;
+    left: 50%;
+    margin-top: -15px;
+    margin-left: -15px;
+    background: url("../images/burger-menu.svg") 50% 50% no-repeat;
+    background-size: contain;
 }
 
 .logo{
