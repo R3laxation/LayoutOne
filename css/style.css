@@ -22,6 +22,11 @@ body {
     height: 50px;
     border: 1px solid #2D76F9;
     border-radius: 5px;
+    position: relative;
+}
+
+.menu-burger:after{
+    position: absolute;
 }
 
 .logo{
