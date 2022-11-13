@@ -526,7 +526,12 @@ body {
 
     .col-description{
         padding-top: 50px;
-        padding-bottom: 0px;
+        padding-bottom: 0;
+    }
+
+    .section-download{
+        padding-left: 15px;
+        padding-right: 15px;
     }
 }
 
