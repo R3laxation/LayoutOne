@@ -563,5 +563,10 @@ body {
         display: none;
     }
 
+    .col-testimonials{
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+
 }
 
