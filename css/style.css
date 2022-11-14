@@ -496,5 +496,10 @@ body {
     .btn-secondary{
         padding: 22px 60px;
     }
+
+    .main-section-content{
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
 }
 
