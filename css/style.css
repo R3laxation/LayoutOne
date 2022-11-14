@@ -520,7 +520,13 @@ body {
     .section-description-1 .background, .section-description-2 .background{
         width: 100%;
         position: relative;
-        height: 500px
+        height: 500px;
+        border-radius: 0;
+    }
+
+    .col-description{
+        padding-top: 50px;
+        padding-bottom: 0px;
     }
 }
 
