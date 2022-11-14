@@ -476,6 +476,11 @@ body {
 }
 
 @media (max-width: 767px) {
+
+    body{
+        font-size: 18px;
+    }
+
     .main-section .background{
         position: relative;
         width: 100%;
@@ -486,6 +491,10 @@ body {
     .h1{
         font-size: 48px;
         line-height: 85px;
+    }
+
+    .btn-secondary{
+        padding: 22px 60px;
     }
 }
 
