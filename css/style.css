@@ -505,5 +505,9 @@ body {
     .section{
         margin-bottom: 50px;
     }
+
+    .section-advantages{
+        margin-top: 50px;
+    }
 }
 
