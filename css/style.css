@@ -427,10 +427,6 @@ body {
         font-size: 16px;
     }
 
-    .header .menu{
-        display: none;
-    }
-
     .main-section .background-phone{
         margin-top: -175px;
         width: 340px;
@@ -487,6 +483,12 @@ body {
 
     .section-download .actions-container{
         padding-top: 20px;
+    }
+}
+
+@media  (max-width: 991px) {
+    .header .menu{
+        display: none;
     }
 }
 
