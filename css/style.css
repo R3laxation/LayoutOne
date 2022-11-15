@@ -306,6 +306,7 @@ body {
 
 .testimonials .text{
     color: #212121;
+    margin-bottom: 0;
 }
 .section-footer{
     margin-bottom: 50px;
